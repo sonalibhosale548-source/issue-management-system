@@ -9,6 +9,7 @@ issue-management-system/.idea/
 # Angular project
 issue-management-frontend/node_modules/
 issue-management-frontend/dist/
+issue-management-frontend/.angular/
 
 # Compiled output
 /dist
